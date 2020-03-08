@@ -25,3 +25,30 @@
     background-color: var(--primary);
     color: var(--white);
 }
+
+.btn--warning {
+    background-color: var(--warning);
+    color: var(--black);
+}
+
+.btn--danger {
+    background-color: var(--danger);
+    color: var(--black);
+}
+
+.btn--success {
+    background-color: var(--success);
+    color: var(--white);
+}
+
+/* Button Sizes */
+
+.btn--small {
+    padding: 10px 20px;
+    font-size: 18px;
+}
+
+.btn--medium {
+    padding: 15px 30px;
+    font-size: 20px;
+}
